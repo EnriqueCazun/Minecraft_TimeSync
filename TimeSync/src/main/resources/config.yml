@@ -1,0 +1,9 @@
+# Zona horaria del servidor
+timezone: "America/Guayaquil"  # Ecuador continental
+
+# Mundos a sincronizar
+worlds:
+  - "world"
+  
+# Actualizar cada X segundos (10 por defecto)
+update-interval: 10

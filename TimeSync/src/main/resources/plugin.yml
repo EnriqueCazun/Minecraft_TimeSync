@@ -1,0 +1,11 @@
+name: TimeSync
+version: 1.0
+main: com.TimeSync.TimeSync
+api-version: 1.20
+description: Sincroniza el ciclo día/noche con la hora real
+author: Enrique Cazun
+
+commands:
+  timesync:
+    description: Muestra la hora actual del servidor
+    usage: /timesync time
