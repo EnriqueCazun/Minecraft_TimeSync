@@ -23,6 +23,11 @@ Un plugin que sincroniza el ciclo día/noche de Minecraft con la hora real de un
 ### Comandos
 - `/timesync time`  
   Muestra la hora actual del servidor en la zona horaria configurada.
+  
+---
+
+## Contribuciones
+Los reportes de errores y sugerencias son bienvenidos. Abre un issue para discutir cambios.
 
 ---
 
@@ -40,6 +45,3 @@ worlds:
 
 # Intervalo de actualización (en segundos)
 update-interval: 10
-
-## Contribuciones
-Los reportes de errores y sugerencias son bienvenidos. Abre un issue para discutir cambios.
